@@ -23,3 +23,5 @@ In this Modern World everything has become Digitalized. Everyone in the World ha
 **Business Objective and Constraints:**
 
 Since this could be used for preprocessing there is not much requirement for very faster results.
+
+THIS PROJECT IS BASED ON THE RESEARCH PAPER:https://cs224d.stanford.edu/reports/Lewis.pdf
